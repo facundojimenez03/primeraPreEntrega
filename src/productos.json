@@ -1,0 +1,72 @@
+[
+    {
+        "id": "21db2f51-fd49-411d-a0c0-54707010892c",
+        "title": "cargador ",
+        "description": "Cargador rápido inalámbrico magnético",
+        "price": 8300,
+        "thumbnail": "/imgs/cargador.jpg",
+        "code": "02",
+        "stock": 32,
+        "status": "false"
+    },
+    {
+        "id": "57e6c90b-e2b6-43ef-8117-392bb3cfaa57",
+        "title": "tostadora",
+        "description": "rapido tostado",
+        "price": 15.99,
+        "thumbnail": "img/tostadora.jpg",
+        "code": "03",
+        "stock": 100,
+        "status": "false"
+    },
+    {
+        "id": "13b9ee54-f5d6-4a0a-9448-a476b0023aa6",
+        "title": "heladera",
+        "description": "heladera con pantalla",
+        "price": 3329.99,
+        "thumbnail": "img/heladera.jpg",
+        "code": "04",
+        "stock": 50,
+        "status": "true"
+    },
+    {
+        "id": "3a72a76e-7cf9-45f8-9cef-edef99c00e41",
+        "title": "licuadora",
+        "description": "mezclador de jugo fresco, carga inalámbrica",
+        "price": 1200,
+        "thumbnail": "/imgs/licuadora.jpg",
+        "code": "05",
+        "stock": 25,
+        "status": "false"
+    },
+    {
+        "id": "110ba8f6-17a1-4a65-8ac7-c971dbcb5b5a",
+        "title": "mesa de vidrio",
+        "description": "mesa de Vidrio de doble acristalamiento",
+        "price": 8300,
+        "thumbnail": "/imgs/mesa.jpg",
+        "code": "06",
+        "stock": 32,
+        "status": "true"
+    },
+    {
+        "id": "4a7042e2-ed3f-4e65-8043-11d97031d3e6",
+        "title": "escritorio",
+        "description": "Escritorio Mesa De Trabajo Oficina",
+        "price": 15.99,
+        "thumbnail": "img/escritorio.jpg",
+        "code": "07",
+        "stock": 100,
+        "status": "true"
+    },
+    {
+        "id": "4933fbfa-df97-4777-ad93-67ccb95ce743",
+        "title": "mesa de noche",
+        "description": "MESA DE NOCHE NEW YORK LAQUEADA ",
+        "price": 3329.99,
+        "thumbnail": "img/mesa de noche.jpg",
+        "code": "08",
+        "stock": 50,
+        "status": "false"
+    }
+]
