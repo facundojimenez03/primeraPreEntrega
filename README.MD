@@ -1,2 +1,9 @@
+# ruta de productos
 
-# de
+- metodo post 
+
+
+vaa
+
+
+
