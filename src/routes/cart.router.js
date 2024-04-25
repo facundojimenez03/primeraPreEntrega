@@ -15,7 +15,7 @@ cartRouter.post("/", async (req, res) => {
 cartRouter.get("/:cid", async (req, res) => {
     const { cid } = req.params;
     try {
-        const response = await cartManager.getCardProducts(cid); 
+        const response = await cartManager.getCartProduct(cid); 
         res.json(response);
     } catch (error) {
         res.send("error al intentar enviar los productos");
