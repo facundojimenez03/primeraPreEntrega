@@ -50,16 +50,6 @@
         "status": "true"
     },
     {
-        "id": "4a7042e2-ed3f-4e65-8043-11d97031d3e6",
-        "title": "escritorio",
-        "description": "Escritorio Mesa De Trabajo Oficina",
-        "price": 15.99,
-        "thumbnail": "img/escritorio.jpg",
-        "code": "07",
-        "stock": 100,
-        "status": "true"
-    },
-    {
         "id": "4933fbfa-df97-4777-ad93-67ccb95ce743",
         "title": "mesa de noche",
         "description": "MESA DE NOCHE NEW YORK LAQUEADA ",
@@ -68,5 +58,35 @@
         "code": "08",
         "stock": 50,
         "status": "false"
+    },
+    {
+        "id": "1698a079-b8c8-41bb-a833-bb52e22e1284",
+        "title": "hierba ",
+        "description": "canarias especial ",
+        "price": 33239.99,
+        "thumbnail": "img/canarias.jpg",
+        "code": "10",
+        "stock": 20,
+        "status": "true"
+    },
+    {
+        "id": "977c40ca-b5e3-441b-baad-ca675862fb1a",
+        "title": "hierba ",
+        "description": "baldo especial ",
+        "price": 33239.99,
+        "thumbnail": "img/canarias.jpg",
+        "code": "10",
+        "stock": 20,
+        "status": "true"
+    },
+    {
+        "id": "8f374382-d1c0-4499-af89-fe20513ea754",
+        "title": "hierba ",
+        "description": "hierba taragui",
+        "price": 33239.99,
+        "thumbnail": "img/canarias.jpg",
+        "code": "10",
+        "stock": 20,
+        "status": "true"
     }
 ]

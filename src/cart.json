@@ -1,11 +1,1 @@
-[
-    {
-        "id": "ccea9e78-240a-4450-9792-40d1c4c4c9c0",
-        "products": [
-            {
-                "product_id": "producto1",
-                "quantity": 2
-            }
-        ]
-    }
-]
+[{"id":"484c9701-586d-410e-8dc8-90cd5ff87b20","products":[{"product_id":"producto1","quantity":9}]}]
